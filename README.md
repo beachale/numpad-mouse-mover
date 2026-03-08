@@ -1,4 +1,4 @@
-# Numpad Mouse Lock (Windows)
+# Numpad Mouse Mover (Windows)
 
 Move mouse perfectly along x and y axes with numpad for precise control.
 
