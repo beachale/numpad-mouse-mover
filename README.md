@@ -1,6 +1,6 @@
 # Numpad Mouse Mover (Windows)
 
-Move mouse perfectly along x and y axes with numpad for precise control.
+Move mouse perfectly in each direction with numpad for precise control.
 
 ## Features
 
